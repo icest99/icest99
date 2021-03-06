@@ -3,7 +3,7 @@
 
 ### Hello! 👋 I am Kiattipan!
 
-I am a developer who is passionate about web teachnology, since i'm rather new in this industry, right now i'm focusing on the front-end part as it's easier for beginner but, I' aiming to become a full-stack developer, so more back-end project will be coming soon! stay excited!!
+I am a developer who is passionate about web development, since i'm rather new in this industry, right now i'm focusing on the front-end part as it's easier for beginner but, I' aiming to become a full-stack developer, so more back-end project will be coming soon! stay excited!!
 
 <h3 align="left">Contact me:</h3>
 <p align="left">
