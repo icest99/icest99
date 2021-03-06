@@ -1,4 +1,3 @@
-![My-banner!](https://i.ibb.co/ZHxT6NN/Yellow-Purple-and-Pink-Vibrant-and-Dynamic-Wellness-Retractable-Exhibition-Banner-1.png)
 <img src="https://i.ibb.co/ZHxT6NN/Yellow-Purple-and-Pink-Vibrant-and-Dynamic-Wellness-Retractable-Exhibition-Banner-1.png" alt="banner" width="300"/>
 
 
