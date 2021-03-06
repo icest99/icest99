@@ -1,4 +1,4 @@
-![My-banner!](https://drive.google.com/uc?export=view&id=1KznoQjKTUQTuZtKc0I8IiEtjUMJNmpzg)
+![My-banner!](https://ibb.co/gvJgM66)
 
 
 ### Hi! 👋 I am Kiattipan!
