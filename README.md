@@ -1,7 +1,7 @@
 ![My-banner!](https://drive.google.com/uc?export=view&id=1KznoQjKTUQTuZtKc0I8IiEtjUMJNmpzg)
 
 
-### Hello! 👋 I am Kiattipan!
+### Hi! 👋 I am Kiattipan!
 
 I am a developer who is passionate about web development, since i'm rather new in this industry, right now i'm focusing on the front-end part as it's easier for beginner but, I'm aiming to become a full-stack developer, so more back-end project will be coming soon! stay excited!!
 
