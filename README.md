@@ -15,7 +15,7 @@ I am a developer who is passionate about web teachnology, since i'm rather new i
 
 
 * 🎓 I'm currently looking for web development internship opportunity, to further grow my skillset in web development.
-* 🏡 Visit my porfolio website for additional info about me.
+* 🏡 Visit my porfolio website for additional info about me. (coming in a few days!)
 
 <!--
 **icest99/icest99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
