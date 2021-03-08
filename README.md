@@ -15,7 +15,7 @@ I am a developer who is passionate about web development, since i'm rather new i
 
 
 * 🎓 I'm currently looking for web development internship opportunity, to further grow my skillset in web development.
-* 🏡 Visit <a href="kiat.com">my porfolio website</a> for additional info about me.
+* 🏡 Visit my porfolio website for additional info about me. kiatm.com
 
 <!--
 **icest99/icest99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
