@@ -1,7 +1,5 @@
 ### Hi! 👋 I am Kiattipan!
 
-I am a developer who is passionate about web development, since i'm rather new in this industry, right now i'm focusing on the front-end part as it's easier for beginner but, I'm aiming to become a full-stack developer, so more back-end project will be coming soon! stay excited!!
-
 <h3 align="left">Contact me:</h3>
 <p align="left">
 <a href="https://fb.com/ice.st0" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="ice.st0" height="30" width="40" /></a>
